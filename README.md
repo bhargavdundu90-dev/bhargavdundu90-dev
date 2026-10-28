@@ -51,7 +51,7 @@
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhargavdundu90-dev&theme=github-compact&hide_border=true&area=true" width="100%"/>
+<img src="https://ghchart.rshah.org/1f6feb/bhargavdundu90-dev" alt="Contribution chart" width="100%"/>
 
 ## 🏅 Certifications
 
